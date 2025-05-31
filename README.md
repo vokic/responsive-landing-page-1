@@ -7,16 +7,21 @@ It is inspired by the Figma design, some parts are same, some are new. The other
 
 ---
 
+## 🏗️ Sections and structure
+- Hero section
+- Features section
+- CTA section
+- FAQ Accordion
+- Footer
+- Many more
+
 ## 💻 Technologies Used
 
 - **HTML5** – For semantic and structured markup
 - **CSS3** – For styling and responsive layout
 - **JavaScript (optional/minimal)** – For accordion only
----
-
-## 📱 Responsive Design
-
 - Used **media queries** to adapt layout for different screens
+- _Personally I would use a framework since the files are getting larger, and Tailwind utility classes or UI library for styling (Shadcn)_
 ---
 
 ## 📁 Folder Structure
